@@ -1,0 +1,179 @@
+;Bezirk Mitte: Energieverbrauchsübersicht bezirklicher Liegenschaften 2017;;;;;;;
+;;;;;;;;
+;lfd. Nr.;Liegenschaft;Adresse Straße;Adresse PLZ;Wärmeversorgung;Wärmeverbrauch witterungsbereinigt;Stromverbrauch;Bemerkungen
+;;;;;;kWh;kWh;
+;BILDUNG;;;;;47.139.261;8.073.566;
+Bildung;1;Möwensee Grundschule, Kita Kindergärten City;Afrikanische Str. 123-125;13351;Fernwärme;1.042.457;279.749;
+Bildung;2;Gymnasium Tiergarten;Altonaer Str. 26;10555;Fernwärme;673.277;293.866;Stromseitige Mitversorgung von Nr. 23
+Bildung;3;Wedding Grundschule;Antonstr. 10, 11, 17;13347;Fernwärme;990.681;82.200;
+Bildung;4;Fil. Grundschule am Koppenplatz;Auguststr. 21;10117;Fernwärme;338.435;49.101;
+Bildung;5;Fil. Grundschule am Koppenplatz;Bergstr. 5;10115;Gas;428.923;83.600;
+Bildung;6;Papageno Grundschule;Bergstr. 58;10115;Gas;372.690;109.171;
+Bildung;7;Charlotte-Pfeffer-Schule;Berolinastr. 8;10178;Fernwärme;599.046;162.223;
+Bildung;8;Diesterweg-Gymnasium;Böttgerstr. 2;13357;Fernwärme;1.399.197;132.398;
+Bildung;9;Vineta-Grundschule;Demminer Str. 27;13355;Gas;780.120;56.753;
+Bildung;10;Französisches Gymnasium;Derfflingerstr. 7-8;10785;Fernwärme;1.808.147;520.967;
+Bildung;11;Fil. Schule am Schillerpark;Edinburger Str. 53;13349;Gas;-;49.625;Wärmeversorgung durch Nr. 30
+Bildung;12;Rudolf-Wissell-Grundschule;Ellerbeker Str. 7-8;13357;Gas;1.109.469;93.336;
+Bildung;13;Hemingway-Schule;Gartenstr. 10, 16, 17;10115;Gas;566.613;138.616;
+Bildung;14;Papageno Grundschule;Gartenstr. 25;10115;Gas;111.144;18.212;
+Bildung;15;Kastanienbaum-Grundschule;Gipsstr. 23 a;10119;Gas;607.502;70.350;Stromseitige Mitversorgung von Nr. 132
+Bildung;16;Wilhelm-Hauff-Grundschule;Gotenburger Str. 6, 8;13359;Gas;2.210.225;105.801;Wärmeseitige Mitversorgung weiterer Schule
+Bildung;17;Humboldthain-Grundschule;Grenzstr. 7;13355;Gas;594.353;89.586;
+Bildung;18;Willy-Brandt-Schule;Grüntaler Str. 4-5;13357;Gas;1.237.373;190.294;Wärmeseitige Mitversorgung von Nr. 157
+Bildung;19;Anna-Lindh-Schule;Guineastr. 17-18;13351;Gas;1.588.849;186.886;Wärme- und Stromseitige Mitversorgung Jugendeinrichtung Kongostr. 28
+Bildung;20;Grundschule Neues Tor;Hannoversche Str. 20;10115;Fernwärme;553.353;97.900;
+Bildung;21;Andersen-Grundschule;Kattegatstr. 26;13359;Gas;567.399;57.250;
+Bildung;22;Grundschule am Koppenplatz;Koppenplatz 12;10115;Fernwärme;125.300;74.709;
+Bildung;23;Hansa-Grundschule;Lessingstr. 5;10555;Fernwärme;556.353;-;Stromversorgung durch Nr. 2
+Bildung;24;Ernst-Schering-Schule;Lütticher Str. 47-48;13353;Fernwärme;757.370;83.172;
+Bildung;25;Allegro-Grundschule;Lützowstr. 83-85;10785;Gas;1.291.823;343.039;
+Bildung;26;Leo-Lionni-Grundschule;Müllerstr. 158;13353;Fernwärme;895.543;151.045;Stromseitige Mitversorgung von Nr. 27
+Bildung;27;Leo-Lionni-Grundschule, Wohndienstgebäude;Müllerstr. 158;;Gas;24.390;-;Stromversorgung durch Nr. 26
+Bildung;28;Heinrich-von-Stephan-Schule;Neues Ufer 6-8;10553;Fernwärme;938.848;192.018;Stromseitige Mitversorgung Nr. 29, 146, 147
+Bildung;29;Heinrich-von-Stephan-Schule;Neues Ufer 6-8;;Gas;73.825;-;Stromversorgung durch Nr. 28
+Bildung;30;Schule am Schillerpark;Ofener Str. 6;13349;Gas;1.826.553;102.400;Wärmeseitige Mitversorgung von Nr. 11
+Bildung;31;Albert-Gutzmann-Grundschule;Orthstr. 1;13357;Fernwärme;1.426.879;264.943;Stromseitige Mitversorgung von Nr. 33
+Bildung;32;Herbert-Hoover-Schule;Pankstr. 18-20;13357;Fernwärme;443.684;96.082;
+Bildung;33;ehem. Oberschule am Brunnenplatz;Pankstr. 70;13357;Fernwärme;260.088;-;Stromversorgung durch Nr. 31
+Bildung;34;Anne-Frank-Grundschule;Paulstr. 20 b-c;10557;Gas;786.668;111.657;Wärmeseitige Mitversorgung externer Kita
+Bildung;35;Moabiter Grundschule;Paulstr. 28;10557;Fernwärme;937.118;133.035;
+Bildung;36;Gesundbrunnen Grundschule;Prinzenallee 8;13357;Fernwärme;583.758;96.505;
+Bildung;37;Heinrich-Seidel-Grundschule;Ramlerstr. 9-10;13355;Fernwärme;1.564.045;458.971;
+Bildung;38;Kurt-Tucholsky-Grundschule;Rathenower Str. 18;10559;Fernwärme;791.045;134.756;
+Bildung;39;Schule am Zille-Park;Ravenéstr. 11-12;13347;Fernwärme;673.564;54.305;
+Bildung;40;Grundschule am Arkonaplatz;Ruppiner Str. 47-48;10115;Gas;535.521;165.606;
+Bildung;41;Lessing-Gymnasium;Schöningstr. 17;13349;Fernwärme;620.427;152.732;
+Bildung;42;Jugendkunstschule Mitte;Schönwalder Str. 19;13347;unbekannt  ;-;15.164;Wärmeversorgung über Schönwalder Str. 19a (Extern)
+Bildung;43;City-Grundschule;Sebastianstr. 57;10179;Fernwärme;291.759;95.264;
+Bildung;44;Theodor-Heuss-Gemeinschaftsschule (Grundstufe);Siemensstr. 20;10551;Fernwärme;394.285;107.080;
+Bildung;45;GuthsMuths-Grundschule;Singerstr. 8;10179;Fernwärme;375.069;75.950;
+Bildung;46;Max-Planck-Gymnasium;Singerstr. 8 a;10179;Fernwärme;836.205;96.532;
+Bildung;47;Theodor-Heuss-Gemeinschaftsschule (Mittel-/Oberstufe);Stephanstr. 2-3;10559;Gas;1.077.143;235.738;
+Bildung;48;Hedwig-Dohm-Schule;Stephanstr. 27;10559;Fernwärme;599.150;97.020;
+Bildung;49;Ernst-Reuter-Schule;Stralsunder Str. 57;13355;Gas;2.762.751;621.934;Wärme- & Stromseitige Mitversorgung von Nr. 50
+Bildung;50;Gustav-Falke-Grundschule;Strelitzer Str. 41-42;13355;Gas;350.340;-;Wärme- & Stromversorgung durch Nr. 49
+Bildung;51;Betreuung Hort;Tegeler Str. 13;;Gas;454.997;42.015;
+Bildung;52;Brüder-Grimm-Grundschule;Tegeler Str. 14, 16, 18, 19;13353;Fernwärme;1.142.929;139.430;
+Bildung;53;Gottfried-Röhl-Grundschule;Ungarnstr. 75;13349;Gas;1.038.440;105.365;Stromseitige Mitversorgung von Nr. 156
+Bildung;54;Erika-Mann Grundschule;Utrechter Str. 25-27;13347;Fernwärme;909.332;162.271;
+Bildung;55;Carl-Bolle-Grundschule;Waldenserstr. 20-21;10551;Fernwärme;641.139;129.702;
+Bildung;56;Theodor-Heuss-Gemeinschaftsschule (Hort);Wiclefstr. 6;10551;Fernwärme;195.337;26.805;
+Bildung;57;Grundschule am Brandenburger Tor;Wilhelmstr. 51-52;10117;Fernwärme;709.111;234.252;Wärmeseitige Mitversorgung von Nr. 100
+Bildung;58;Carl-Kraemer-Grundschule;Zechliner Str. 4;13359;Gas;902.313;84.430;
+Bildung;59;John-Lennon-Gymnasium;Zehdenicker Str. 17;10119;Gas;508.477;125.405;
+Bildung;60;Miriam-Makeba-Grundschule;Zinzendorfstr. 15-16;10555;Gas;784.262;112.080;
+Bildung;61;Fil. Miriam-Makeba-Grundschule;Zwinglistr. 18-19;10555;Fernwärme;110.849;20.942;
+Bildung;62;Wartburg-Schule;Zwinglistr. 37;10555;Fernwärme;363.317;63.328;
+;Freizeiteinrichtung;;;;;5.382.625;997.144;
+Freizeiteinrichtung;63;Spielplatz Ottopark (ehem. Toilettenhaus);Alt-Moabit 34;10555;Nachtspeicherheizung;-;5.206;
+Freizeiteinrichtung;64;Volkshochschule Wedding;Antonstr. 37;13347;Fernwärme;434.055;103.648;
+Freizeiteinrichtung;65;Freier Träger;Berlichingenstr. 8;10553;Gas;28.055;6.794;
+Freizeiteinrichtung;66;Freier Träger;Biesentaler Str. 7;13359;Gas;41.995;5.281;
+Freizeiteinrichtung;67;Fil. Schul-Umwelt-Zentrum Mitte (SUZ) - Birkenstraße;Birkenstr. 35;10551;Nachtspeicherheizung;-;27.640;
+Freizeiteinrichtung;68;Wolfgang-Scheunemann-Haus;Bredowstr. 31-32;10551;Fernwärme;174.661;20.533;
+Freizeiteinrichtung;69;Jugendverkehrsschule Tiergarten;Bremer Str. 10;10551;-;-;14.217;keine Wärmeversorgung
+Freizeiteinrichtung;70;Freier Träger;Buttmannstr. 15;13357;Gas;11.001;588;
+Freizeiteinrichtung;71;Freier Träger;Edinburger Str. 55;13349;unbekannt;-;1.170;
+Freizeiteinrichtung;72;Freier Träger;Fischerinsel 3;10179;Fernwärme;323.547;68.860;
+Freizeiteinrichtung;73;Jugendverkehrsschule Wedding;Gottschedstr. 23;13357;Gas;11.338;1.661;
+Freizeiteinrichtung;74;Abenteuerspielplatz Humboldthain;Gustav-Meyer-Allee 4;13355;Gas;62.770;10.552;
+Freizeiteinrichtung;75;Freier Träger;Kaiserin-Augusta-Allee 98-100;10553;Gas;19.397;-;
+Freizeiteinrichtung;76;Volkshochschule Mitte;Linienstr. 162;10115;Gas;438.203;101.450;
+Freizeiteinrichtung;77;Freier Träger;Lützowstr. 28;10785;Fernwärme;-;16.821;Wärmeseitige Mitversorgung von Nr. 105
+Freizeiteinrichtung;78;Freier Träger;Luxemburger Str. 25;13353;Gas;46.765;-;Stromversorgung durch Nr. 94
+Freizeiteinrichtung;79;Freier Träger;Lynarstr. 14;13353;Fernwärme;85.151;10.258;
+Freizeiteinrichtung;80;Freier Träger;Markgrafenstr. 26;10117;unbekannt;-;23.986;
+Freizeiteinrichtung;81;Spielplatzbeleuchtung;Ostender Str. 48;13353;-;-;817;
+Freizeiteinrichtung;82;"Seniorenfreizeitstätte ""Haus Mettmann""";Otawistr. 46;13351;Gas;53.562;7.750;
+Freizeiteinrichtung;83;Freier Träger;Rathenower Str. 17;10559;Fernwärme;103.329;12.490;
+Freizeiteinrichtung;84;Freier Träger;Reinickendorfer Str. 55;13347;Gas;1.770;-;Stromversorgung durch Nr. 164
+Freizeiteinrichtung;85;Freier Träger;Rostocker Str. 32;10553;Fernwärme;315.059;38.044;Wärmeversorgung Jugendeinrichtung Rostocker Str. 32a/b
+Freizeiteinrichtung;86;Freier Träger;Schmidstr. 8;10179;Fernwärme;301.043;313;Wärmeversorgung Jugendeinrichtung Schmidstr. 10
+Freizeiteinrichtung;87;"Seniorenfreizeitstätte ""Haus Bottrop"" ";Schönwalder Str. 4;13347;Fernwärme;68.646;8.887;
+Freizeiteinrichtung;88;Freizeithaus am Mauerpark;Schwedter Str. 234;10435;Gas;637.481;88.400;
+Freizeiteinrichtung;89;Fil. Schul-Umwelt-Zentrum Mitte (SUZ) - Seestraße;Seestr. 74;13347;Gas;48.342;-;Stromversorgung durch Nr. 163
+Freizeiteinrichtung;90;Freier Träger;Seydlitzstr. 12;10557;-;-;2.918;
+Freizeiteinrichtung;91;Seniorenfreizeitstätte Spandauer Straße;Spandauer Str. 2;10178;Mietobjekt;-;2.606;
+Freizeiteinrichtung;92;Seniorenfreizeitstätte Stralsunder Straße;Stralsunder Str. 6;13355;Gas;44.612;4.680;
+Freizeiteinrichtung;93;Musikschule  ;Swinemünder Str. 80;13355;Gas;101.013;19.615;
+Freizeiteinrichtung;94;Abenteuerspielplatz Telux;Tegeler Str. 28 a;13353;Gas;13.075;5.417;Stromseitige Mitversorgung von Nr. 78
+Freizeiteinrichtung;95;Seniorenfreizeitstätte Torstraße;Torstr. 203-205;10115;Mietobjekt;-;7.223;
+Freizeiteinrichtung;96;Brüder-Grimm-Haus;Turmstr. 75;10551;Fernwärme;753.687;306.879;Stromseitige Mitversorgung von Nr. 101
+Freizeiteinrichtung;97;Fil. Musikschule Fanny Hensel;Wallstr. 42;10179;Fernwärme;189.786;36.700;Wärmeseitige Mitversorgung von Nr. 112
+Freizeiteinrichtung;98;Freier Träger;Weinmeisterstr. 15;10178;Fernwärme;103.695;22.300;
+Freizeiteinrichtung;99;Spielplatz Spielhaus Pankeufer;Wilhelm-Kuhr-Str. 49;13359;Gas;16.985;5.014;
+Freizeiteinrichtung;100;Jugendclub Ikarus;Wilhelmstr. 51;10117;Fernwärme;-;8.426;Wärmeversorgung durch Nr. 57
+Freizeiteinrichtung;101;Berlin-Kolleg;Zwinglistr. 2;10555;Fernwärme;953.601;-;Stromversorgung durch Nr. 96
+;Kultureinrichtung;;;;;933.364;515.925;
+Kultureinrichtung;102;Hansabibliothek;Altonaer Str. 15;10557;Fernwärme;129.084;19.135;
+Kultureinrichtung;103;Philip-Schaeffer-Bibliothek;Brunnenstr. 181;10119;unbekannt, Mietobjekt;-;135.454;
+Kultureinrichtung;104;Klosterruine Mitte;Klosterstr. 73 a;10179;elek. Heizstrahler;-;1.750;
+Kultureinrichtung;105;Bibliothek Tiergarten-Süd;Lützowstr. 27;10785;Fernwärme;-;18.640;Wärmeversorgung durch Nr. 77
+Kultureinrichtung;106;Schiller-Bibliothek;Müllerstr. 149;13353;Fernwärme;110.927;105.578;
+Kultureinrichtung;107;Heimatmuseum Wedding;Pankstr. 47;13357;Fernwärme;184.716;12.038;
+Kultureinrichtung;108;Bruno-Lösche-Bibliothek ;Perleberger Str. 33;10559;Fernwärme;144.119;46.601;
+Kultureinrichtung;109;Institut für Schauspiel;Seestr. 64;13347;unbekannt  ;-;11.177;
+Kultureinrichtung;110;Bibliothek am Luisenbad;Badstr. 39;13357;Gas;364.518;165.552;
+;SGA;;;;;955.733;208.573;
+SGA;111;Revierunterkunft Gartenplatz;Gartenstr. 55 y;13355;Heizöl;9.377;430;
+SGA;112;Werkhof Rungestraße;Rungestr. 34;10179;Fernwärme;-;11.885;Wärmeversorgung durch Nr. 97
+SGA;113;Pumpwerk Tiergarten;Katharina-Heinroth-Ufer 2, 3;10787;Gas;132.162;48.378;
+SGA;114;Revierunterkunft Kleine Rosenthaler Straße;Kleine Rosenthaler Str. 3-7;10119;Gas;19.735;1.779;
+SGA;115;Lagerplatz Nordufer;Nordufer 30;13351;-;-;539;keine Wärmeversorgung
+SGA;116;Revierunterkunft Pankstraße;Pankstr. 17;13357;Fernwärme;52.111;23.634;
+SGA;117;Depot Straßen- und Grünflächenamt;Petersallee;13351;unbekannt  ;-;18.344;
+SGA;118;Revierunterkunft Ruheplatzstraße;Ruheplatzstr. 3;13347;Fernwärme;8.156;4.116;
+SGA;119;Bärenzwinger;Rungestr. 31;10179;Fernwärme;-;7.564;Wärmeversorgung durch Nebenhaus
+SGA;121;Revierunterkunft Scharnhorststraße;Scharnhorststr. 33;10115;Nachtspeicherheizung;-;8.738;
+SGA;122;Bürodienstgebäude Straße des 17. Juni;Straße des 17. Juni 31;10785;Heizöl;536.802;57.714;
+SGA;123;Revierunterkunft Turmstraße;Turmstr. 85 a;10559;Fernwärme;-;4.518;Wärmeversorgung durch Nr. 155
+SGA;124;Depot Schillerpark;Ungarnstr. 57;13349;Heizöl;111.214;11.862;
+SGA;125;Revierunterkunft Unionstraße;Unionstr. 12;10551;Fernwärme;86.176;5.288;
+SGA;126;Revierunterkunft Weinbergsweg;Weinbergsweg 21;10119;unbekannt  ;-;3.784;
+;Sport;;;;;7.110.247;2.200.141;
+Sport;127;Sporthalle Melchiorstraße;Adalbertstr. 53;10179;Fernwärme;151.146;5.853;
+Sport;128;Stadion Rehberge (im Volkspark);Afrikanische Str. 47;13351;Gas;307.211;34.375;
+Sport;129;Sporthalle Albrechtstraße;Albrechtstr. 20;10117;Fernwärme;47.794;11.570;
+Sport;130;Sportplatz Auguststraße;Auguststr. 66-67;10117;Gas;94.858;21.551;
+Sport;131;Sportplatz Behmstraße;Behmstr. 29-31;13357;Gas;129.339;36.228;
+Sport;132;Sporthalle Kastanienbaum-Grundschule;Gipsstr. 23 a;;Fernwärme;127.949;-;Stromversorgung durch Nr. 15
+Sport;133;Franz-Mett-Sporthalle;Gormannstr. 13;10119;Gas;438.829;128.130;
+Sport;134;Sportplatz Holzmarktstraße;Holzmarktstr. 55;10179;Gas;116.702;14.600;
+Sport;135;Sportplatz Grundschule am Brandenburger Tor;In den Ministergärten 2;;Gas;49.040;5.808;
+Sport;136;Sportplatz Gustav Böß;Koloniestr. 82;13359;Heizöl;93.350;27.576;
+Sport;137;Sporthalle Schützenstraße;Schützenstr. 51;10117;Fernwärme;98.216;55.877;
+Sport;138;Werner-Kluge-Sportplatz;Kühnemannstr. 52;13409;Gas;137.977;15.989;
+Sport;139;Sportanlage Stade Napoleon;Kurt-Schumacher-Damm 207-245;13405;Heizöl;107.064;16.440;
+Sport;140;Poststadion Lehrter Straße;Lehrter Str. 59;10557;Fernwärme;661.758;240.006;Stromseitige Mitversorgung von Nr. 141
+Sport;141;Poststadion Lehrter Straße, Rollschuhbahn;Lehrter Str. 59;;Gas;106.995;-;Stromversorgung durch Nr. 140
+Sport;142;Sporthalle Louise-Schroeder-Platz;Louise-Schroeder-Platz 1;13359;Fernwärme;266.876;52.050;
+Sport;143;Sportplatz Togostraße;Lüderitzstr. 40;13351;Gas;142.021;26.071;
+Sport;144;Erika-Heß-Eisstadion;Müllerstr. 185;13353;Heizöl;1.558.714;1.217.441;
+Sport;145;"Sporthalle ""A, B, C"" Neue Roßstraße";Neue Roßstr. 5;10179;Fernwärme;362.911;110.728;
+Sport;146;Sportplatz Neues Ufer;Neues Ufer 2;10553;Gas;157.456;-;Stromversorgung durch Nr. 28
+Sport;147;Sporthalle Heinrich-von-Stephan-Schule;Neues Ufer 6-8;;Fernwärme;142.458;-;Stromversorgung durch Nr. 28
+Sport;148;Sportplatz Nordufer;Nordufer 28 a;13351;Gas;182.321;16.332;
+Sport;149;Hanne-Sobek-Sportplatz;Osloer Str. 42;13359;Gas;272.095;18.389;
+Sport;150;Sporthalle Herbert-Hoover-Schule;Pankstr. 18-20;;Gas;200.203;14.198;
+Sport;151;Sporthalle Putbusser Straße;Putbusser Str. 12;13355;Gas;358.336;100.890;
+Sport;152;Pavillon Minigolfplatz Fritz-Schloß-Park;Rathenower Str. 10;10559;Gas;7.269;-;
+Sport;153;Bootshaus Tegel;Schwarzer Weg 25;13505;Gas;69.881;2.343;
+Sport;154;Sporthalle Tiergarten (Union-Sporthalle);Siemensstr. 20 a;10551;Fernwärme;402.253;17.251;
+Sport;155;Sporthalle Turmstraße;Turmstr. 85 b;10559;Fernwärme;152.647;10.445;Wärmeseitige Mitversorgung von Nr. 123
+Sport;156;Sportplatz Schillerpark;Ungarnstr. 65;13349;Gas;166.576;-;Stromversorgung durch Nr. 53
+;Verwaltung;;;;;6.181.641;1.885.469;
+Verwaltung;157;Haus der Volksbildung;Badstr. 9 y;13357;Gas;-;12.921;Wärmeversorgung durch Nr. 18
+Verwaltung;158;Büroräume Fleisch- und Fruchtgroßmarkt;Beusselstr. 44 n-q;10553;unbekannt, Mietobjekt;63.462;6.326;
+Verwaltung;159;Bürodienstgebäude (Friedhofsverwaltung);Dohnagestell 9;13351;Heizöl;220.826;123.250;
+Verwaltung;160;Bürodienstgebäude (Jug);Grüntaler Str. 21;13357;Heizöl;319.973;38.838;
+Verwaltung;161;Bürodienstgebäude (Rathaus Mitte);Karl-Marx-Allee 31;10178;Fernwärme;1.461.040;1.036.256;
+Verwaltung;162;Bürodienstgebäude (Rathaus Wedding);Müllerstr. 146;13353;Fernwärme;1.201.346;-;Stromversorgung durch Extern
+Verwaltung;163;Haus der Gesundheit Wedding;Reinickendorfer Str. 60 b;13347;Fernwärme;942.881;133.111;Stromseitige Mitversorgung von Nr. 89
+Verwaltung;164;Bürodienstgebäude (Jugendamt);Schulstr. 101;13347;Fernwärme;605.031;83.133;Mitversorgung Wärmeseitig von Nr. 84 & 165, Stromseitig von Nr. 84
+Verwaltung;165;Bürodienstgebäude (Bauaktenarchiv);Schulstr. 99;13347;Fernwärme;-;2.001;Wärmeversorgung durch Nr. 164, Sanierung
+Verwaltung;166;Rathaus Tiergarten;Mathilde-Jacob-Platz 1;10551;Fernwärme;1.321.054;441.585;
+Verwaltung;167;Bürodienstgebäude (Turmstraße);Turmstr. 33;10551;unbekannt, Mietobjekt;46.029;2.231;
+Verwaltung;168;Bürodienstgebäude (Kapweg);Kapweg 3-5;13405;unbekannt, Mietobjekt;-;5.817;
+;Sonstiges;;;;;703.890;1.427.529;
+;;;;;Gesamtsumme Bezirk Mitte:;68.406.761;15.308.347;
