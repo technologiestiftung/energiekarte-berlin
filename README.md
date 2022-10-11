@@ -62,3 +62,11 @@ Table Format:	lfd. Nr.	// Liegenschaft	// Adresse Straﬂe	// Adresse PLZ	// W�
 
 <br><br>
 
+Bezirk: Tempelhof-Schöneberg <br>
+Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-der-bezirklichen-abnahmestellen-2010-2019 <br> 
+File Name: verbrauchsuebersicht_2010-2019_final_20210429.csv <br>
+File Dates: Verbrauchsübersicht 2010 bis 2019 <br>
+Table Format: <br>
+
+<br><br>
+
