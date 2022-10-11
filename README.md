@@ -66,7 +66,11 @@ Bezirk: Tempelhof-Schöneberg <br>
 Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-der-bezirklichen-abnahmestellen-2010-2019 <br> 
 File Name: verbrauchsuebersicht_2010-2019_final_20210429.csv <br>
 File Dates: Verbrauchsübersicht 2010 bis 2019 <br>
-Table Format: <br>
+Table Format: ID	// Liegenschaft	// Adresse	// PLZ	// Bauwerk	// Energieart (W‰rmeverbrauch ist witterungsbereinigt)	// Einheit	// 2010	// 2011	// 2012	// 2013	// 2014	// 2015	// 2016	// 2017	// 2018	// 2019
+![grafik](https://user-images.githubusercontent.com/46717848/195132077-6c3228fb-670c-4ea3-8c49-9e7dc28e203b.png)
+<br>
+
+<img width="1550" alt="tempelhof-schoeneberg" src="https://user-images.githubusercontent.com/46717848/195131988-c93a03ce-b9d8-49af-befb-74a47c6cf7b0.png">
 
 <br><br>
 
