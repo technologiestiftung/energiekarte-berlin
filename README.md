@@ -7,6 +7,12 @@ Frontend: https://lisa-stubert.github.io/energy_usage_map/ <br>
 GitHub Repository: https://github.com/Lisa-Stubert/energy_usage_map
 
 ## Data Sets for Project Expansion
+
+Data aviable for: Lichtenberg, Friedrichshain-Kreuzberg, Treptow-Köpenik, Steglitz-Zehlendorf, Mitte, Tempelhof-Schöneberg, (Marzahn-Hellersdorf as PDF only) <br>
+Data missing for: Neukölln, Spandau, Reinickendorf, Pankow, Charlottenburg-Wilmersdorf
+
+<hr>
+
 Bezirk: Lichtenberg <br>
 Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-der-bezirklichen-abnahmestellen-2020 <br>
 File Name: energieverbrauchsubersicht_2020.xlsx <br>
