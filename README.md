@@ -44,4 +44,8 @@ Table Format: lfd. Nr.	// Liegenschaft	// Adresse	// PLZ	// Art der W‰rme-vers
 
 <br><br>
 
+Bezirk: Mitte <br>
+Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-bezirklicher-geb%C3%A4ude-2017-bezirk-mitte <br>
+
+
 
