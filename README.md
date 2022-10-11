@@ -13,7 +13,7 @@ Bezirk: Friedrichshain-Kreuzberg <br>
 Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-bezirklicher-geb%C3%A4ude-2019-bezirk-friedrichshain-kreuzberg <br>
 File Name: 201112_verbrauchsveroffentlichung_bafk_berichtsjahr-2019.xlsx <br>
 File dates: Verbrauchsübersicht für 2017, 2018, 2019 <br>
-Table Format: Nr.	Einrichtung	Adresse Straße	Adresse PLZ	Wärmeversorgung	Wärmeverbrauch witterungsbereinigt	Stromverbrauch	Bemerkungen![grafik](https://user-images.githubusercontent.com/46717848/195114347-7af7a08a-3433-4299-a3cc-461acc32fa0c.png) <br>
+Table Format: Nr.	// Einrichtung	// Adresse // Straße	// Adresse // PLZ	// Wärmeversorgung	// Wärmeverbrauch witterungsbereinigt	// Stromverbrauch	Bemerkungen![grafik](https://user-images.githubusercontent.com/46717848/195114347-7af7a08a-3433-4299-a3cc-461acc32fa0c.png) <br>
 
 <img width="1666" alt="friedrichshein_kreuzberg" src="https://user-images.githubusercontent.com/46717848/195114763-acb8c42f-6c03-4ef4-9f13-7d07c3de1e4b.png">
 
