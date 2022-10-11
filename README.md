@@ -46,6 +46,11 @@ Table Format: lfd. Nr.	// Liegenschaft	// Adresse	// PLZ	// Art der W‰rme-vers
 
 Bezirk: Mitte <br>
 Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-bezirklicher-geb%C3%A4ude-2017-bezirk-mitte <br>
+File Name: verbrauchsuebersicht_bami_2017_pressestelle_opendata.csv <br>
+File Dates: Verbrauchsübersicht für 2017 <br>
+Table Format: <br>
 
+<img width="1556" alt="mitte" src="https://user-images.githubusercontent.com/46717848/195126835-6fc0c1aa-3848-4f73-a726-f081c2bebdb1.png">
 
+<br><br>
 
