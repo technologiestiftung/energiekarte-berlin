@@ -80,3 +80,7 @@ Table Format: ID	// Liegenschaft	// Adresse	// PLZ	// Bauwerk	// Energieart (Wâ€
 
 <br><br>
 
+## Notion Documentation
+
+https://www.notion.so/citylabberlin/Energiekarte-2-0-2901c079cac24eeeaeed1211881bc61b
+
