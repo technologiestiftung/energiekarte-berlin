@@ -1,5 +1,12 @@
 # Energiekarte Berlin
-## Data
+
+## Lisas's Prototype
+Frontend: https://lisa-stubert.github.io/energy_usage_map/ <br>
+<img width="1680" alt="lisas_map" src="https://user-images.githubusercontent.com/46717848/195129004-0f17f49e-0fa9-44f4-968e-819697bbf2b0.png">
+
+GitHub Repository: https://github.com/Lisa-Stubert/energy_usage_map
+
+## Data Sets for Project Expansion
 Bezirk: Lichtenberg <br>
 Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-der-bezirklichen-abnahmestellen-2020 <br>
 File Name: energieverbrauchsubersicht_2020.xlsx <br>
