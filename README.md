@@ -1,5 +1,12 @@
 # Energiekarte Berlin
-## Data
+
+## Lisas's Prototype
+Frontend: https://lisa-stubert.github.io/energy_usage_map/ <br>
+<img width="1680" alt="lisas_map" src="https://user-images.githubusercontent.com/46717848/195129004-0f17f49e-0fa9-44f4-968e-819697bbf2b0.png">
+
+GitHub Repository: https://github.com/Lisa-Stubert/energy_usage_map
+
+## Data Sets for Project Expansion
 Bezirk: Lichtenberg <br>
 Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-der-bezirklichen-abnahmestellen-2020 <br>
 File Name: energieverbrauchsubersicht_2020.xlsx <br>
@@ -44,4 +51,14 @@ Table Format: lfd. Nr.	// Liegenschaft	// Adresse	// PLZ	// Art der W‰rme-vers
 
 <br><br>
 
+Bezirk: Mitte <br>
+Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-bezirklicher-geb%C3%A4ude-2017-bezirk-mitte <br>
+File Name: verbrauchsuebersicht_bami_2017_pressestelle_opendata.csv <br>
+File Dates: Verbrauchsübersicht für 2017 <br>
+Table Format:	lfd. Nr.	// Liegenschaft	// Adresse Straﬂe	// Adresse PLZ	// W‰rmeversorgung	// W‰rmeverbrauch witterungsbereinigt	// Stromverbrauch // 	Bemerkungen
+![grafik](https://user-images.githubusercontent.com/46717848/195127068-3b912616-cd9c-4ba3-9abc-bce7dd53ddbd.png) <br>
+
+<img width="1556" alt="mitte" src="https://user-images.githubusercontent.com/46717848/195126835-6fc0c1aa-3848-4f73-a726-f081c2bebdb1.png">
+
+<br><br>
 
