@@ -36,7 +36,9 @@ Bezirk: Steglitz-Zehlendorf <br>
 Data: Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-bezirklicher-geb%C3%A4ude-bezirk-steglitz-zehlendorf <br>
 File Name: verbrauchsuebersicht_ba_steglitz-zehlendorf_2017-2018-2019_final.csv <br>
 File Dates: Verbrauchsübersicht für 2017, 2018, 2019<br>
-Table Format: <br>
+Table Format: lfd. Nr.	// Liegenschaft	// Adresse	// PLZ	// Art der W‰rme-versorgung	// W‰rme-verbrauch witterungs-bereinigt [kWh]	// Strom-verbrauch [kWh] // Bemerkungen
+![grafik](https://user-images.githubusercontent.com/46717848/195121836-de286c0f-1619-48ea-8785-8fa6bd5b85a6.png)
+<br>
 
 <img width="1680" alt="steglitz_zehlendorf" src="https://user-images.githubusercontent.com/46717848/195121329-bbce91fd-bec4-4fe0-bf13-d66d3fb0a6f9.png">
 
