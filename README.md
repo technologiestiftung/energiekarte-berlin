@@ -9,7 +9,13 @@ GitHub Repository: https://github.com/Lisa-Stubert/energy_usage_map
 ## Data Sets for Project Expansion
 
 Data aviable for: Lichtenberg, Friedrichshain-Kreuzberg, Treptow-Köpenik, Steglitz-Zehlendorf, Mitte, Tempelhof-Schöneberg, (Marzahn-Hellersdorf as PDF only) <br>
-Data missing for: Neukölln, Spandau, Reinickendorf, Pankow, Charlottenburg-Wilmersdorf
+Data missing for: Neukölln, Spandau, Reinickendorf, Pankow, Charlottenburg-Wilmersdorf 
+
+<br>
+<img width="500" alt="data_set_overview" src="https://user-images.githubusercontent.com/46717848/195140451-02b86311-417f-4725-ac56-4049dc4a56ce.png">
+
+
+
 
 <hr>
 
