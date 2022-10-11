@@ -86,6 +86,12 @@ Table Format: ID	// Liegenschaft	// Adresse	// PLZ	// Bauwerk	// Energieart (W‚Ä
 
 <br><br>
 
+Bezirk: Marzahn-Hellersdorf <br>
+Data Source: https://www.berlin.de/ba-marzahn-hellersdorf/ueber-den-bezirk/zahlen-und-fakten/energieverbrauchsdaten/ <br>
+File Name: 
+File Dates: Verbrauchs√ºbersicht 2017, 2018, 2019, 2020 <br>
+Table Format: PDF
+
 ## Notion Documentation
 
 https://www.notion.so/citylabberlin/Energiekarte-2-0-2901c079cac24eeeaeed1211881bc61b
