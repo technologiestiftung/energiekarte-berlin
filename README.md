@@ -32,5 +32,14 @@ Table Format: Nr. // Liegenschaft / Objekt // Adresse // PLZ // Art der Wärmeve
 
 <br><br>
 
+Bezirk: Steglitz-Zehlendorf <br>
+Data: Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-bezirklicher-geb%C3%A4ude-bezirk-steglitz-zehlendorf <br>
+File Name: verbrauchsuebersicht_ba_steglitz-zehlendorf_2017-2018-2019_final.csv <br>
+File Dates: Verbrauchsübersicht für 2017, 2018, 2019<br>
+Table Format: <br>
+
+<img width="1680" alt="steglitz_zehlendorf" src="https://user-images.githubusercontent.com/46717848/195121329-bbce91fd-bec4-4fe0-bf13-d66d3fb0a6f9.png">
+
+<br><br>
 
 
