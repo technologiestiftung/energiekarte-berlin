@@ -7,6 +7,12 @@ Frontend: https://lisa-stubert.github.io/energy_usage_map/ <br>
 GitHub Repository: https://github.com/Lisa-Stubert/energy_usage_map
 
 ## Data Sets for Project Expansion
+
+Data aviable for: Lichtenberg, Friedrichshain-Kreuzberg, Treptow-Köpenik, Steglitz-Zehlendorf, Mitte, Tempelhof-Schöneberg, (Marzahn-Hellersdorf as PDF only) <br>
+Data missing for: Neukölln, Spandau, Reinickendorf, Pankow, Charlottenburg-Wilmersdorf
+
+<hr>
+
 Bezirk: Lichtenberg <br>
 Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-der-bezirklichen-abnahmestellen-2020 <br>
 File Name: energieverbrauchsubersicht_2020.xlsx <br>
@@ -59,6 +65,18 @@ Table Format:	lfd. Nr.	// Liegenschaft	// Adresse Straﬂe	// Adresse PLZ	// W�
 ![grafik](https://user-images.githubusercontent.com/46717848/195127068-3b912616-cd9c-4ba3-9abc-bce7dd53ddbd.png) <br>
 
 <img width="1556" alt="mitte" src="https://user-images.githubusercontent.com/46717848/195126835-6fc0c1aa-3848-4f73-a726-f081c2bebdb1.png">
+
+<br><br>
+
+Bezirk: Tempelhof-Schöneberg <br>
+Data Source: https://daten.berlin.de/datensaetze/energieverbrauchs%C3%BCbersicht-der-bezirklichen-abnahmestellen-2010-2019 <br> 
+File Name: verbrauchsuebersicht_2010-2019_final_20210429.csv <br>
+File Dates: Verbrauchsübersicht 2010 bis 2019 <br>
+Table Format: ID	// Liegenschaft	// Adresse	// PLZ	// Bauwerk	// Energieart (W‰rmeverbrauch ist witterungsbereinigt)	// Einheit	// 2010	// 2011	// 2012	// 2013	// 2014	// 2015	// 2016	// 2017	// 2018	// 2019
+![grafik](https://user-images.githubusercontent.com/46717848/195132077-6c3228fb-670c-4ea3-8c49-9e7dc28e203b.png)
+<br>
+
+<img width="1550" alt="tempelhof-schoeneberg" src="https://user-images.githubusercontent.com/46717848/195131988-c93a03ce-b9d8-49af-befb-74a47c6cf7b0.png">
 
 <br><br>
 
