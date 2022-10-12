@@ -94,6 +94,9 @@ Table Format: PDF <br>
 
 <img width="1157" alt="marzahn-hellersdorf" src="https://user-images.githubusercontent.com/46717848/195141580-c57b402b-850e-422b-8466-1a1b812d64d3.png">
 
+## Possible Intersection Data Sets
+
+Ebergieatlas Berlin: https://energieatlas.berlin.de/
 
 ## Notion Documentation
 
